@@ -21,4 +21,4 @@ deploy:
   provider: heroku
   api_key:
     secure: "YOUR ENCRYPTED API KEY"
-  app: app4linux
+  app: devops-esentails-hello-word
